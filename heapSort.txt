@@ -1,0 +1,8 @@
+### Sorting
+Sort a given set of large natural numbers using a given algorithm.
+
+#### Input
+n - number elements of an input set
+In n consecutive lines: numbers to sort
+Output
+Sequence of numbers, each separated by a newline character, sorted in a non-descending order.
