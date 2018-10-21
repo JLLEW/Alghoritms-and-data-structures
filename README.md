@@ -1,1 +1,1 @@
-## All task descriptions in txt files
+## All exercises descripitons in txt files
